@@ -1,0 +1,2 @@
+[run]
+dev = "bun run dev -- --port 8080"

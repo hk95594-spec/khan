@@ -1,0 +1,6 @@
+- [x] Add full-cell photos to My Stock with click-to-add/replace and persistent storage.
+- [x] Add a separate সর্বমোট box in bill memos showing money total plus previous due.
+- [x] Verify uploading, replacing and reloading stock photos.
+- [x] Audit and correct profit calculations, including returns and invoice detail totals.
+- [x] Test accounting rules and verify the saved-data profit report.
+- [x] Drop the clock icon in My Stock; product name shown as blue text, single click opens history, double click edits.
